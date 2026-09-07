@@ -16,6 +16,7 @@
 | [0002-add-two-numbers](https://github.com/utkarsh1906-keshari/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/utkarsh1906-keshari/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0231-power-of-two](https://github.com/utkarsh1906-keshari/leetcode-solutions/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/utkarsh1906-keshari/leetcode-solutions/tree/master/0326-power-of-three) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -25,6 +26,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/utkarsh1906-keshari/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/utkarsh1906-keshari/leetcode-solutions/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/utkarsh1906-keshari/leetcode-solutions/tree/master/0326-power-of-three) |
 ## Linked List
 |  |
 | ------- |
