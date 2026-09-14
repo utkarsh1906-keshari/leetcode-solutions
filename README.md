@@ -42,6 +42,7 @@
 | ------- |
 | [0006-zigzag-conversion](https://github.com/utkarsh1906-keshari/leetcode-solutions/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/utkarsh1906-keshari/leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0844-backspace-string-compare](https://github.com/utkarsh1906-keshari/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -54,6 +55,7 @@
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/utkarsh1906-keshari/leetcode-solutions/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/utkarsh1906-keshari/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [2169-count-operations-to-obtain-zero](https://github.com/utkarsh1906-keshari/leetcode-solutions/tree/master/2169-count-operations-to-obtain-zero) |
 ## Greedy
 |  |
@@ -64,8 +66,13 @@
 | ------- |
 | [0496-next-greater-element-i](https://github.com/utkarsh1906-keshari/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/utkarsh1906-keshari/leetcode-solutions/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/utkarsh1906-keshari/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/utkarsh1906-keshari/leetcode-solutions/tree/master/0496-next-greater-element-i) |
+## Two Pointers
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/utkarsh1906-keshari/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
