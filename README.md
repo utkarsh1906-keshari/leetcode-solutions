@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/utkarsh1906-keshari/leetcode-solutions/tree/master/0001-two-sum) |
 | [0496-next-greater-element-i](https://github.com/utkarsh1906-keshari/leetcode-solutions/tree/master/0496-next-greater-element-i) |
+| [0682-baseball-game](https://github.com/utkarsh1906-keshari/leetcode-solutions/tree/master/0682-baseball-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -52,6 +53,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/utkarsh1906-keshari/leetcode-solutions/tree/master/0682-baseball-game) |
 | [2169-count-operations-to-obtain-zero](https://github.com/utkarsh1906-keshari/leetcode-solutions/tree/master/2169-count-operations-to-obtain-zero) |
 ## Greedy
 |  |
@@ -61,6 +63,7 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/utkarsh1906-keshari/leetcode-solutions/tree/master/0496-next-greater-element-i) |
+| [0682-baseball-game](https://github.com/utkarsh1906-keshari/leetcode-solutions/tree/master/0682-baseball-game) |
 ## Monotonic Stack
 |  |
 | ------- |
