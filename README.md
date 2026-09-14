@@ -5,11 +5,13 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/utkarsh1906-keshari/leetcode-solutions/tree/master/0001-two-sum) |
+| [0496-next-greater-element-i](https://github.com/utkarsh1906-keshari/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/utkarsh1906-keshari/leetcode-solutions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/utkarsh1906-keshari/leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0496-next-greater-element-i](https://github.com/utkarsh1906-keshari/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 ## Math
 |  |
 | ------- |
@@ -55,4 +57,12 @@
 |  |
 | ------- |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/utkarsh1906-keshari/leetcode-solutions/tree/master/2139-minimum-moves-to-reach-target-score) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/utkarsh1906-keshari/leetcode-solutions/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/utkarsh1906-keshari/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
