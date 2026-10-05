@@ -26,6 +26,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/utkarsh1906-keshari/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/utkarsh1906-keshari/leetcode-solutions/tree/master/0231-power-of-two) |
 ## Recursion
 |  |
@@ -84,4 +85,16 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/utkarsh1906-keshari/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
+## Binary Search
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/utkarsh1906-keshari/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
+## Tree
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/utkarsh1906-keshari/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
+## Binary Tree
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/utkarsh1906-keshari/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
