@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/utkarsh1906-keshari/leetcode-solutions/tree/master/0001-two-sum) |
 | [0496-next-greater-element-i](https://github.com/utkarsh1906-keshari/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/utkarsh1906-keshari/leetcode-solutions/tree/master/0682-baseball-game) |
+| [0724-find-pivot-index](https://github.com/utkarsh1906-keshari/leetcode-solutions/tree/master/0724-find-pivot-index) |
 ## Hash Table
 |  |
 | ------- |
@@ -97,4 +98,8 @@
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/utkarsh1906-keshari/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/utkarsh1906-keshari/leetcode-solutions/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
