@@ -96,11 +96,13 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/utkarsh1906-keshari/leetcode-solutions/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/utkarsh1906-keshari/leetcode-solutions/tree/master/0101-symmetric-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/utkarsh1906-keshari/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/utkarsh1906-keshari/leetcode-solutions/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/utkarsh1906-keshari/leetcode-solutions/tree/master/0101-symmetric-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/utkarsh1906-keshari/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 ## Prefix Sum
 |  |
@@ -114,8 +116,10 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/utkarsh1906-keshari/leetcode-solutions/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/utkarsh1906-keshari/leetcode-solutions/tree/master/0101-symmetric-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/utkarsh1906-keshari/leetcode-solutions/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/utkarsh1906-keshari/leetcode-solutions/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->
