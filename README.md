@@ -46,6 +46,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/utkarsh1906-keshari/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/utkarsh1906-keshari/leetcode-solutions/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/utkarsh1906-keshari/leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0344-reverse-string](https://github.com/utkarsh1906-keshari/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0844-backspace-string-compare](https://github.com/utkarsh1906-keshari/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 ## Dynamic Programming
 |  |
@@ -79,6 +80,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/utkarsh1906-keshari/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0844-backspace-string-compare](https://github.com/utkarsh1906-keshari/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 ## Design
 |  |
