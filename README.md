@@ -49,6 +49,7 @@
 | [0125-valid-palindrome](https://github.com/utkarsh1906-keshari/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/utkarsh1906-keshari/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0844-backspace-string-compare](https://github.com/utkarsh1906-keshari/leetcode-solutions/tree/master/0844-backspace-string-compare) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/utkarsh1906-keshari/leetcode-solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -62,6 +63,7 @@
 | ------- |
 | [0682-baseball-game](https://github.com/utkarsh1906-keshari/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/utkarsh1906-keshari/leetcode-solutions/tree/master/0844-backspace-string-compare) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/utkarsh1906-keshari/leetcode-solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2169-count-operations-to-obtain-zero](https://github.com/utkarsh1906-keshari/leetcode-solutions/tree/master/2169-count-operations-to-obtain-zero) |
 ## Greedy
 |  |
@@ -74,6 +76,7 @@
 | [0496-next-greater-element-i](https://github.com/utkarsh1906-keshari/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/utkarsh1906-keshari/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/utkarsh1906-keshari/leetcode-solutions/tree/master/0844-backspace-string-compare) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/utkarsh1906-keshari/leetcode-solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Monotonic Stack
 |  |
 | ------- |
