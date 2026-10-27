@@ -22,6 +22,7 @@
 | [0013-roman-to-integer](https://github.com/utkarsh1906-keshari/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/utkarsh1906-keshari/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/utkarsh1906-keshari/leetcode-solutions/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/utkarsh1906-keshari/leetcode-solutions/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/utkarsh1906-keshari/leetcode-solutions/tree/master/0326-power-of-three) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/utkarsh1906-keshari/leetcode-solutions/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2169-count-operations-to-obtain-zero](https://github.com/utkarsh1906-keshari/leetcode-solutions/tree/master/2169-count-operations-to-obtain-zero) |
@@ -61,6 +62,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/utkarsh1906-keshari/leetcode-solutions/tree/master/0258-add-digits) |
 | [0682-baseball-game](https://github.com/utkarsh1906-keshari/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/utkarsh1906-keshari/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/utkarsh1906-keshari/leetcode-solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -129,4 +131,8 @@
 | ------- |
 | [0100-same-tree](https://github.com/utkarsh1906-keshari/leetcode-solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/utkarsh1906-keshari/leetcode-solutions/tree/master/0101-symmetric-tree) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/utkarsh1906-keshari/leetcode-solutions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
