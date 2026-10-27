@@ -23,6 +23,7 @@
 | [0070-climbing-stairs](https://github.com/utkarsh1906-keshari/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/utkarsh1906-keshari/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/utkarsh1906-keshari/leetcode-solutions/tree/master/0258-add-digits) |
+| [0263-ugly-number](https://github.com/utkarsh1906-keshari/leetcode-solutions/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/utkarsh1906-keshari/leetcode-solutions/tree/master/0326-power-of-three) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/utkarsh1906-keshari/leetcode-solutions/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2169-count-operations-to-obtain-zero](https://github.com/utkarsh1906-keshari/leetcode-solutions/tree/master/2169-count-operations-to-obtain-zero) |
