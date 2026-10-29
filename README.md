@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/utkarsh1906-keshari/leetcode-solutions/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/utkarsh1906-keshari/leetcode-solutions/tree/master/0027-remove-element) |
 | [0496-next-greater-element-i](https://github.com/utkarsh1906-keshari/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/utkarsh1906-keshari/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/utkarsh1906-keshari/leetcode-solutions/tree/master/0724-find-pivot-index) |
@@ -90,6 +91,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/utkarsh1906-keshari/leetcode-solutions/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/utkarsh1906-keshari/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/utkarsh1906-keshari/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0844-backspace-string-compare](https://github.com/utkarsh1906-keshari/leetcode-solutions/tree/master/0844-backspace-string-compare) |
