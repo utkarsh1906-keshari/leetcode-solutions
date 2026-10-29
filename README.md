@@ -50,6 +50,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/utkarsh1906-keshari/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/utkarsh1906-keshari/leetcode-solutions/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/utkarsh1906-keshari/leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/utkarsh1906-keshari/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/utkarsh1906-keshari/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/utkarsh1906-keshari/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0844-backspace-string-compare](https://github.com/utkarsh1906-keshari/leetcode-solutions/tree/master/0844-backspace-string-compare) |
@@ -92,6 +93,7 @@
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/utkarsh1906-keshari/leetcode-solutions/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/utkarsh1906-keshari/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/utkarsh1906-keshari/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/utkarsh1906-keshari/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0844-backspace-string-compare](https://github.com/utkarsh1906-keshari/leetcode-solutions/tree/master/0844-backspace-string-compare) |
@@ -141,4 +143,20 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/utkarsh1906-keshari/leetcode-solutions/tree/master/0258-add-digits) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/utkarsh1906-keshari/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/utkarsh1906-keshari/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/utkarsh1906-keshari/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/utkarsh1906-keshari/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
