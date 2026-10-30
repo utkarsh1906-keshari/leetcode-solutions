@@ -10,6 +10,7 @@
 | [0682-baseball-game](https://github.com/utkarsh1906-keshari/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/utkarsh1906-keshari/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/utkarsh1906-keshari/leetcode-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1961-check-if-string-is-a-prefix-of-array](https://github.com/utkarsh1906-keshari/leetcode-solutions/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -55,6 +56,7 @@
 | [0344-reverse-string](https://github.com/utkarsh1906-keshari/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0844-backspace-string-compare](https://github.com/utkarsh1906-keshari/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/utkarsh1906-keshari/leetcode-solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [1961-check-if-string-is-a-prefix-of-array](https://github.com/utkarsh1906-keshari/leetcode-solutions/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -97,6 +99,7 @@
 | [0125-valid-palindrome](https://github.com/utkarsh1906-keshari/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/utkarsh1906-keshari/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0844-backspace-string-compare](https://github.com/utkarsh1906-keshari/leetcode-solutions/tree/master/0844-backspace-string-compare) |
+| [1961-check-if-string-is-a-prefix-of-array](https://github.com/utkarsh1906-keshari/leetcode-solutions/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 ## Design
 |  |
 | ------- |
