@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/utkarsh1906-keshari/leetcode-solutions/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/utkarsh1906-keshari/leetcode-solutions/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/utkarsh1906-keshari/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0496-next-greater-element-i](https://github.com/utkarsh1906-keshari/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/utkarsh1906-keshari/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/utkarsh1906-keshari/leetcode-solutions/tree/master/0724-find-pivot-index) |
@@ -114,6 +115,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/utkarsh1906-keshari/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0222-count-complete-tree-nodes](https://github.com/utkarsh1906-keshari/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 ## Tree
 |  |
