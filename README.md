@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/utkarsh1906-keshari/leetcode-solutions/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/utkarsh1906-keshari/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/utkarsh1906-keshari/leetcode-solutions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/utkarsh1906-keshari/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0496-next-greater-element-i](https://github.com/utkarsh1906-keshari/leetcode-solutions/tree/master/0496-next-greater-element-i) |
@@ -78,6 +79,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/utkarsh1906-keshari/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/utkarsh1906-keshari/leetcode-solutions/tree/master/2139-minimum-moves-to-reach-target-score) |
 ## Stack
 |  |
@@ -97,6 +99,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/utkarsh1906-keshari/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/utkarsh1906-keshari/leetcode-solutions/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/utkarsh1906-keshari/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/utkarsh1906-keshari/leetcode-solutions/tree/master/0125-valid-palindrome) |
