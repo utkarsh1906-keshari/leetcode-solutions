@@ -8,6 +8,7 @@
 | [0011-container-with-most-water](https://github.com/utkarsh1906-keshari/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/utkarsh1906-keshari/leetcode-solutions/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/utkarsh1906-keshari/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/utkarsh1906-keshari/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/utkarsh1906-keshari/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0496-next-greater-element-i](https://github.com/utkarsh1906-keshari/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/utkarsh1906-keshari/leetcode-solutions/tree/master/0682-baseball-game) |
@@ -120,6 +121,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/utkarsh1906-keshari/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/utkarsh1906-keshari/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/utkarsh1906-keshari/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0222-count-complete-tree-nodes](https://github.com/utkarsh1906-keshari/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 ## Tree
